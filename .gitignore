@@ -1,0 +1,10 @@
+config.php
+admin/config.php
+.htaccess
+php.ini
+
+.idea
+image
+admin/view/image
+catalog/view/theme/default/image
+
