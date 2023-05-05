@@ -1,0 +1,7 @@
+2023-05-05 19:15:31 - PHP Notice:  date_default_timezone_set(): Timezone ID 'Europe/Kyiv' is invalid in C:\laragon\www\custom-theme\web\catalog\controller\startup\startup.php on line 37
+2023-05-05 19:16:51 - PHP Notice:  date_default_timezone_set(): Timezone ID 'Europe/Kyiv' is invalid in C:\laragon\www\custom-theme\web\admin\controller\startup\startup.php on line 17
+2023-05-05 19:16:58 - PHP Notice:  date_default_timezone_set(): Timezone ID 'Europe/Kyiv' is invalid in C:\laragon\www\custom-theme\web\admin\controller\startup\startup.php on line 17
+2023-05-05 19:16:59 - PHP Notice:  date_default_timezone_set(): Timezone ID 'Europe/Kyiv' is invalid in C:\laragon\www\custom-theme\web\admin\controller\startup\startup.php on line 17
+2023-05-05 19:17:00 - PHP Notice:  date_default_timezone_set(): Timezone ID 'Europe/Kyiv' is invalid in C:\laragon\www\custom-theme\web\admin\controller\startup\startup.php on line 17
+2023-05-05 19:17:02 - PHP Notice:  date_default_timezone_set(): Timezone ID 'Europe/Kyiv' is invalid in C:\laragon\www\custom-theme\web\admin\controller\startup\startup.php on line 17
+2023-05-05 19:17:15 - PHP Notice:  date_default_timezone_set(): Timezone ID 'Europe/Kyiv' is invalid in C:\laragon\www\custom-theme\web\admin\controller\startup\startup.php on line 17
